@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "info": "Personal Information",
+      "description": "I am Aryan Srivastava, currently pursuing a Bachelor of Technology in Computer Science from SRM University, Chennai, with a CGPA of 9.45. I am a driven and results-oriented Data Scientist and Software Engineer with hands-on experience in machine learning, data analysis, and web development."
+    },
+    {
+      "id": 2,
+      "info": "Education",
+      "description": "I am studying at SRM University and maintaining a CGPA of 9.45. I completed my 12th from ST Xavier's School, Jaunpur, with 93.8%, and my 10th from Rani Laxmi Bai Memorial School, Lucknow, with 92.83%."
+    },
+    {
+      "id": 3,
+      "info": "Internship Experience",
+      "description": "As a Web Development Intern at Nexus Info, I developed a responsive login/registration page using HTML, CSS, and JavaScript. I also engineered a full-stack restaurant website with user authentication and interactive UI elements, ensuring cross-device compatibility and collaborating in a team-based environment to deliver the project on time."
+    },
+    {
+      "id": 4,
+      "info": "Internship Experience",
+      "description": "At Fessopro, I designed and developed a movie ticket booking system using C++ and MySQL. The project included real-time seat reservations, a command-line interface, and integrated SQL queries for efficient data management."
+    },
+    {
+      "id": 5,
+      "info": "Projects",
+      "description": "Detectify is an AI-powered security system that I built using TensorFlow.js, Next.js, React, and Tailwind CSS. It automatically detects humans in real time, triggers alerts, and features color-coded object detection with video feed processing every 10ms."
+    },
+    {
+      "id": 6,
+      "info": "Projects",
+      "description": "In the Health-Horizon project, I created a disease prediction model using NumPy, Pandas, Scikit-learn, and Tkinter. The system achieved 94% accuracy and included a user-friendly interface for real-time interaction with healthcare professionals."
+    },
+    {
+      "id": 7,
+      "info": "Projects",
+      "description": "I built a UPI Fraud Detection model using Python, Pandas, and Seaborn. The model addressed data imbalance using oversampling techniques, achieving high recall for detecting fraudulent transactions and providing actionable insights."
+    },
+    {
+      "id": 8,
+      "info": "Projects",
+      "description": "In the iPhone Sales Analysis project, I analyzed sales data using Python, Plotly, and Matplotlib. The project identified key trends in pricing, discounts, and customer ratings, enabling data-driven decisions for optimizing sales strategies."
+    },
+    {
+      "id": 9,
+      "info": "Skills",
+      "description": "I am proficient in programming languages like C++, Python, and JavaScript, and web technologies such as HTML, CSS, React.js, and Next.js. I have expertise in machine learning libraries like Scikit-learn, TensorFlow, Pandas, and NumPy."
+    },
+    {
+      "id": 10,
+      "info": "Achievements",
+      "description": "I secured 4th place out of 64 teams in the IEEE Hackathon and ranked among the top 5 students at SRM University."
+    },
+    {
+      "id": 11,
+      "info": "Certifications",
+      "description": "I hold the Oracle Certified Foundations Associate certification, which has strengthened my knowledge of database management and programming."
+    },
+    {
+      "id": 12,
+      "info": "Volunteering",
+      "description": "As a Committee Member for Aaruush, SRM University’s annual tech fest, I managed the Drag Race event with a team of 20 volunteers and coordinated logistics for the drone competition, ensuring smooth execution."
+    },
+    {
+      "id": 13,
+      "info": "Soft Skills",
+      "description": "I possess strong skills in collaboration, problem-solving, analytical thinking, and time management, which I have demonstrated during internships and volunteering activities."
+    },
+    {
+      "id": 14,
+      "info": "Future Goals",
+      "description": "I aspire to leverage my technical skills and experience to secure roles in software development or data science, contributing innovative solutions and actionable insights."
+    },
+    {
+      "id": 15,
+      "info": "Challenges",
+      "description": "While developing the Health-Horizon application, ensuring high prediction accuracy and creating an intuitive interface were challenges I overcame through experimentation with algorithms and user-centered design."
+    },
+    {
+      "id": 16,
+      "info": "GitHub Contributions",
+      "description": "My GitHub profile showcases projects like Detectify, Health-Horizon, and Customer Service Call Escalation Prediction, which highlight my expertise in AI, machine learning, and web development."
+    },
+    {
+      "id": 17,
+      "info": "Summary",
+      "description": "I am passionate about building innovative solutions using data science, machine learning, and web technologies. I strive to combine technical knowledge with creative problem-solving to address real-world challenges."
+    },
+    {
+      "id": 18,
+      "info": "Hobbies",
+      "description": "I enjoy playing cricket, working on personal coding projects, and exploring new technologies in AI and machine learning. I also like reading about stock market fundamentals and analyzing companies for investment opportunities."
+    },
+    {
+      "id": 19,
+      "info": "Interests",
+      "description": "I am interested in technology-driven innovations, particularly in the fields of artificial intelligence and web development. I also enjoy participating in hackathons and technical fests to test my skills and learn from others."
+    },
+    {
+      "id": 20,
+      "info": "Leadership",
+      "description": "As a leader, I have managed teams during technical events like Aaruush. I focus on effective communication, task delegation, and ensuring smooth execution of activities."
+    },
+    {
+      "id": 21,
+      "info": "Work-Life Balance",
+      "description": "I maintain work-life balance by managing my time effectively and setting clear priorities. My schedule includes academic studies, project work, and leisure activities like sports or reading."
+    },
+    {
+      "id": 22,
+      "info": "Inspirations",
+      "description": "I am inspired by innovators in technology like Elon Musk and Sundar Pichai, whose work exemplifies the impact of technology on global challenges."
+    },
+    {
+        "id":23,
+        "info":"Email",
+        "description":"My email id is aryansri1625@gmail.com." 
+    }
+  ]
+  
